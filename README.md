@@ -1,0 +1,3 @@
+# torneo individual
+
+codificacion mia
